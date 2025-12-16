@@ -17,4 +17,4 @@ apt-get install -y --no-install-recommends \
 
 # Finally install python requirements
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r /content/audio-extractor/requirements.txt
