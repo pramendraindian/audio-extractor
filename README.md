@@ -16,11 +16,12 @@ Closing techniques and follow-up logic
 Business rules (pricing, discounts, eligibility, compliance)
 
 Customer persona profiles and buying signals
-Using AI and machine learning, persona profiles can be created by analyzing:
+
+"Using AI and machine learning, persona profiles can be created by analyzing:
 Demographic data (age, location, industry, role)
 Behavioral data (website visits, app usage, content consumption)
 Transaction history (past purchases, frequency, value)
 Psychographic factors (preferences, motivations, pain points)
-Engagement data (emails, chats, social media interactions)
+Engagement data (emails, chats, social media interactions)"
 
 Voice, accent, and domain-specific language samples
