@@ -1,2 +1,6 @@
 # PyAudio may require PortAudio dev headers on Linux. See README or run scripts/install_dependencies.sh
 pyaudio
+openai-whisper
+sounddevice
+scipy
+
