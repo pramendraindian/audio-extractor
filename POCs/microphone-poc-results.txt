@@ -1,0 +1,6 @@
+microphone-poc-results
+The "Error: could not access audio input device" message indicates that the Python script was unable to find or connect to a microphone on the system 
+
+where it's being executed. This is a common issue in Google Colab because Colab notebooks run on virtual machines in the cloud, 
+
+not directly on your local computer. Therefore, these virtual machines do not have access to your local computer's microphone.
