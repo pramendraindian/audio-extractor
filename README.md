@@ -1,6 +1,24 @@
 # audio-extractor
 Audio Extractor Library
 --------
+
+## Installation 🔧
+
+PyAudio requires PortAudio dev headers on Linux. To install system dependencies and then the Python requirements, run:
+
+```bash
+# on Debian/Ubuntu (run as root or with sudo)
+./scripts/install_dependencies.sh
+```
+
+If you prefer to install manually, install the following system packages before running pip:
+
+```bash
+sudo apt-get update
+sudo apt-get install -y build-essential python3-dev portaudio19-dev libportaudio2 libportaudiocpp0 pkg-config
+pip install -r requirements.txt
+```
+
 Transcripts of successful and failed sales conversations
 
 Annotated intents, pain points, objections, and outcomes
